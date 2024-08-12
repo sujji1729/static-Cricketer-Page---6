@@ -1,0 +1,86 @@
+
+.bg-top-container {
+    background-color: #fb4e71;
+    padding: 15px;
+    font-family: "Roboto";
+}
+
+.top-imagee {
+    height: 110px;
+    width: 80px;
+}
+
+.top-head {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.top-para {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "Roboto";
+    font-weight: 200;
+
+}
+
+.bg-bottom-container {
+    background-color: #e6f6ff;
+    padding: 15px;
+    height: 500px;
+}
+
+.head-IPL {
+    color: #323f4b;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 8px;
+}
+
+.ccard {
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.card-image {
+    height: 110px;
+    width: 100px;
+}
+
+.ccard-head {
+    color: #323f4b;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin: 5px;
+}
+
+.ccard-para {
+    color: #323f4b;
+    font-size: 14px;
+    font-family: "Roboto";
+    margin: 5px;
+}
+
+.last-images {
+    height: 80px;
+    width: 95px;
+
+}
+
+.last-paras {
+    color: #323f4b;
+    font-size: 12px;
+    font-family: "Roboto";
+    font-weight: bolder;
+    width: 100px;
+}
+
+.margin {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
